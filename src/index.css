@@ -386,13 +386,16 @@ button:hover {
   transition: opacity 1000ms;
   transition: height 500ms;
 }
+
 .projectTitle {
   margin-top: 1.5em;
   margin-bottom: 1.5em;
 }
+
 .homeTitle {
   margin-bottom: 1.5em;
 }
+
 .contactHomeLink {
   background-color: rgba(0, 0, 0, 0.288);
   color: black;

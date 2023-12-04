@@ -5,22 +5,16 @@ const Home = () => {
     <div className='container homeContainer' id='home'>
       <h1 className='homeTitle'>Quick Bio</h1>
       <p>
-        Hi! I'm Isabel and I love coding, mathematics and going to gym. I also like
-        solving puzzles like the rubik's cube.
+        Hi! I'm Isabel
       </p>
       <p>
-        As a kid I discovered coding and learned the basics of programing and
-        programing languages on youtube.
+       Qui deserunt culpa laborum Lorem id ad Lorem veniam. Mollit nostrud adipisicing minim Lorem minim veniam esse fugiat deserunt cupidatat velit voluptate minim elit. Dolore laborum cillum tempor enim exercitation sit aliquip ut. 
       </p>
       <p>
-        I was amazed with the fact that with code you can build anything from the ground up, leading
-        passion to persue a career in Tech.
+        Non anim elit exercitation incididunt deserunt elit dolore veniam do reprehenderit eiusmod pariatur. Exercitation officia mollit et esse eu exercitation non consectetur ad exercitation eiusmod amet velit. Quis culpa elit veniam ex sunt duis ullamco magna est eu eu amet mollit velit. Tempor do aliquip laborum tempor dolore ipsum consectetur Lorem quis pariatur deserunt duis.
       </p>
       <p>
-        At the moment I'm a full-time Computer Engineering student at the
-        University of Puerto Rico-Mayaguez Campus and I enjoy designing and
-        building fast, beautiful and easy to use websites using React.js and
-        CSS.
+       Proident magna exercitation laboris do laboris reprehenderit mollit eiusmod elit voluptate exercitation commodo do consequat. Minim consequat adipisicing ad pariatur qui aliqua qui elit officia Lorem ullamco aliqua. Et eu velit aute id et consequat dolor cillum cupidatat nulla.
       </p>
       <p style={{ paddingBottom: 50}}>
         Feel free to contact me filling the form at the bottom of this page and
